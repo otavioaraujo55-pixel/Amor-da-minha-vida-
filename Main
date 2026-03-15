@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="UTF-8">
+<title>Íris</title>
+
+<style>
+body{
+    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.4);
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Íris, amor da minha vida ❤️</h1>
+
+</body>
+
+</html>
